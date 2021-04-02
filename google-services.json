@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "700022945983",
+    "project_id": "mypalpal",
+    "storage_bucket": "mypalpal.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:700022945983:android:13148c3f5c7f263d42ae0a",
+        "android_client_info": {
+          "package_name": "com.mypalpal.mypalpal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "700022945983-t9f5sa142bphusn8t6g7jhrv4slvirnk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAc6Ul9aYKh45BoFC4tsQ5BjJoJ99Pv0aQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "700022945983-t9f5sa142bphusn8t6g7jhrv4slvirnk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
